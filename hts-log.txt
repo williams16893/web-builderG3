@@ -1,0 +1,90 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 04 Jun 2023 04:47:39 at https://hocoos.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hocoos.com/ -O1 "C:\My Web Sites\web builder" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:49:04	Warning: 	Link https://hocoos.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+04:49:06	Warning: 	Moved Permanently for https://hocoos.com/?p=12
+04:49:06	Warning: 	File has moved from https://hocoos.com/?p=12 to https://hocoos.com/features/
+04:49:06	Warning: 	Moved Permanently for https://hocoos.com/ai-website/
+04:49:06	Warning: 	File has moved from https://hocoos.com/ai-website/ to https://hocoos.com/ai-website
+04:49:06	Warning: 	Moved Permanently for https://hocoos.com/?p=447
+04:49:06	Warning: 	File has moved from https://hocoos.com/?p=447 to https://hocoos.com/ai-website?p=447
+04:49:07	Error: 	"Method Not Allowed" (405) at link https://hocoos.com/xmlrpc.php (from https://hocoos.com/ai-website)
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=20
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=20 to https://hocoos.com/beauty-ai-website-builder/
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=55
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=55 to https://hocoos.com/sports-ai-website-builder/
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=47
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=47 to https://hocoos.com/blog-ai-website-builder/
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=57
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=57 to https://hocoos.com/online-store-ai-website-builder/
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=53
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=53 to https://hocoos.com/photography-ai-website-builder/
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=51
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=51 to https://hocoos.com/household-ai-website-builder/
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=49
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=49 to https://hocoos.com/business-ai-website-builder/
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=14
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=14 to https://hocoos.com/community/
+04:49:07	Warning: 	Moved Permanently for https://hocoos.com/?p=16
+04:49:07	Warning: 	File has moved from https://hocoos.com/?p=16 to https://hocoos.com/blog/
+04:51:10	Warning: 	Moved Permanently for https://hocoos.com/?p=455
+04:51:10	Warning: 	File has moved from https://hocoos.com/?p=455 to https://hocoos.com/pricing/
+04:51:10	Warning: 	Moved Permanently for https://hocoos.com/?p=458
+04:51:10	Warning: 	File has moved from https://hocoos.com/?p=458 to https://hocoos.com/contact-us/
+04:51:10	Warning: 	Moved Permanently for https://hocoos.com/?p=35
+04:51:10	Warning: 	File has moved from https://hocoos.com/?p=35 to https://hocoos.com/terms-of-use/
+04:51:10	Warning: 	Moved Permanently for https://hocoos.com/?p=37
+04:51:10	Warning: 	File has moved from https://hocoos.com/?p=37 to https://hocoos.com/privacy-policy/
+04:51:10	Error: 	"Bad Request" (400) at link https://hocoos.com/wp-admin/admin-ajax.php (from https://hocoos.com/blog/the-best-ai-website-builders-2023/)
+04:51:10	Warning: 	Moved Permanently for https://hocoos.com/?p=420
+04:51:10	Warning: 	File has moved from https://hocoos.com/?p=420 to https://hocoos.com/blog/the-best-ai-website-builders-2023/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=395
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=395 to https://hocoos.com/blog/how-to-choose-the-right-social-media-for-your-business/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=366
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=366 to https://hocoos.com/blog/the-ultimate-guide-to-seo-for-small-businesses-boosting-your-online-visibility/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=352
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=352 to https://hocoos.com/blog/businesses-you-can-create-today-with-little-to-no-money-or-skills/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=341
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=341 to https://hocoos.com/blog/how-ai-can-help-you-start-a-small-business-today/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=325
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=325 to https://hocoos.com/blog/thriving-in-the-digital-marketplace-how-to-make-money-and-earn-a-living-online/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=304
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=304 to https://hocoos.com/blog/how-to-build-a-winning-social-media-marketing-plan-for-your-small-businesses/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=291
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=291 to https://hocoos.com/blog/how-to-start-your-own-online-business/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=227
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=227 to https://hocoos.com/blog/ive-created-a-website-so-whats-next/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=219
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=219 to https://hocoos.com/blog/hocoos-student-affiliate-work-smarter-not-harder/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=215
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=215 to https://hocoos.com/blog/the-benefits-of-buyer-personas-for-your-business/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=211
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=211 to https://hocoos.com/blog/the-instagram-marketing-guide-improved-revenue-through-increased-reach/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=205
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=205 to https://hocoos.com/blog/why-social-media-cant-replace-a-business-website/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=186
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=186 to https://hocoos.com/blog/how-to-create-a-website/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=181
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=181 to https://hocoos.com/blog/dont-let-your-business-fall-behind-the-tech-times/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=161
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=161 to https://hocoos.com/blog/tomorrows-technology-today-the-8-technological-trends-that-will-define-the-next-decade/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=152
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=152 to https://hocoos.com/blog/the-ai-revolution-is-here-and-small-businesses-will-never-be-the-same/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=130
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=130 to https://hocoos.com/blog/domains-hosting-explained/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=123
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=123 to https://hocoos.com/blog/how-to-create-an-instagram-professional-account/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=94
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=94 to https://hocoos.com/blog/7-tips-for-building-a-better-business/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=90
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=90 to https://hocoos.com/blog/the-10-essential-benefits-of-a-business-website/
+04:51:27	Warning: 	Moved Permanently for https://hocoos.com/?p=96
+04:51:27	Warning: 	File has moved from https://hocoos.com/?p=96 to https://hocoos.com/blog/building-a-side-hustle-6-steps-to-consider-before-you-start/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 48 seconds : 644 links scanned, 603 files written (26561610 bytes overall) [18704927 bytes received at 82039 bytes/sec], 9724105 bytes transferred using HTTP compression in 264 files, ratio 16%, 74.1 requests per connection
+(2 errors, 77 warnings, 0 messages)
